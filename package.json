@@ -1,0 +1,15 @@
+{
+    "name": "com.auri.core",
+    "displayName": "Auri Core",
+    "description": "Set of core Unity utilities for use by the Auri Framework",
+    "version": "0.1.0",
+    "keywords": [
+        "auri"
+    ],
+    "author": 
+    {
+        "name": "Jonathon Wigley",
+        "email": "jonathon.wigley@gmail.com"
+    },
+    "dependencies": {}
+}
